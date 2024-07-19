@@ -21,5 +21,3 @@ Buscando novos conhecimentos e aprimoramento contínuo.
 
 **contato:**  
 [<img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/alexandre-uglar/)
-[<img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">](https://github.com/acuglar/)
-[<img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">](https://gitlab.com/acuglar)
