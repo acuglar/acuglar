@@ -17,7 +17,7 @@
 ##
 **bio:**  
 Olá, sou Alexandre Uglar, desenvolvedor full stack, graduando em ciência de dados e economista.  
-Sempre buscando novos conhecimentos e aprimoramento, especialmente na área de desenvolvimento web e dados.
+Buscando novos conhecimentos e aprimoramento contínuo.
 
 **contato:**  
 [<img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/alexandre-uglar/)
